@@ -9,11 +9,7 @@ What sets this project apart is its user-friendly interface within MATLAB, provi
 
 
 
-
-
-
-
-
+![MATLABWindow_Q8WCE2Ib4w](https://github.com/Shreerang01/MATLAB-Calculator/assets/113919844/f535e446-6545-44bf-9549-1e939d85c4c4)
 
 
 ## Table of Contents
